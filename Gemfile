@@ -29,6 +29,6 @@ group :test do
   gem 'remarkable_activemodel', '~>4.0.0.alpha4'
   gem 'spork', '~>0.8.0'
   gem 'timecop', '~>0.3.0'
-  gem 'steak'
+  gem 'steak', '>= 2.0.0.beta1'
 end
 
